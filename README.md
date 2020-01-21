@@ -1,7 +1,7 @@
-![image](/Deep_Learning.png)
+![image](/DeepLearning.png)
 
 ***
-The Repository contains all Deep Learning Models and Algorithms
+## The Repository contains all Deep Learning Models and Algorithms
 
 
 
