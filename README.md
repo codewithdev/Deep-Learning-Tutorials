@@ -18,7 +18,8 @@ Perceptron Algorithm
 | Not Perceptron
 |
 |______ Perceptron Implementation
-        |
-        |
-        | 
+|
+|
+|
+|______________________Softmax Function
 
