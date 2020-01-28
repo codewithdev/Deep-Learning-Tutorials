@@ -22,4 +22,9 @@ Perceptron Algorithm
 |
 |
 |______________________Softmax Function
+|
+|
+|
+|
+Gradient Descent 
 
