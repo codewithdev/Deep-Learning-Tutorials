@@ -12,19 +12,19 @@ So Here is our Track
 
 ```
 
-Perceptron Algorithm
+|Perceptron Algorithm
 |
-| and Perceptron
-| Not Perceptron
+|AND Perceptron
+|NOT Perceptron
 |
-|______ Perceptron Implementation
-|
-|
-|
-|______________________Softmax Function
+|Perceptron Implementation
 |
 |
 |
+|Softmax Function
 |
-Gradient Descent 
+|
+|
+|
+|Gradient Descent 
 
